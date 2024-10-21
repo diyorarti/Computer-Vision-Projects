@@ -74,4 +74,4 @@ This project detects personal protective equipment (PPE) such as hardhats, safet
    ```bash
    git clone https://github.com/yourusername/computer-vision-projects.git
    cd computer-vision-projects
- 
+   ```
