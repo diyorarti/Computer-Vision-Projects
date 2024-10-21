@@ -75,3 +75,25 @@ This project detects personal protective equipment (PPE) such as hardhats, safet
    git clone https://github.com/yourusername/computer-vision-projects.git
    cd computer-vision-projects
    ```
+2. Create a virtual environment (optional but recommended):
+   ```bash
+   python -m venv env
+   source env/bin/activate   # On Windows, use `env\Scripts\activate`
+   ```
+3. Install the required dependencies: Install the dependencies listed in requirements.txt:
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. Run the projects:
+    Car Counter:
+    ```bash
+    python car_counter.py
+    ```
+    People Counter:
+    ```bash
+    python people_counter.py
+    ```
+    PPE Detection:
+    ```bash
+    python ppe_detection.py
+    ```
